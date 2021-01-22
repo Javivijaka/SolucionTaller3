@@ -1,0 +1,12 @@
+
+K
+java:S5413A")Verify that "remove()" is used correctly.(è¾™—ùÿÿÿÿ8î”æñ.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(ƒÙ¼—8ì÷ûæñ.
+L
+java:S1066K"/Merge this if statement with the enclosing one.(ˆàáş8ÄóŒçñ.
+d
+java:S3973@"GUse indentation to denote the code conditionally executed by this "if".(ˆàáş8î”æñ.
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(Ê£îµ8¸Äÿæñ.
+d
+java:S39736"GUse indentation to denote the code conditionally executed by this "if".(ˆàáş8ÁŞÄåñ.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(Ê£îµ8Ğæ„çñ.

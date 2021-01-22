@@ -1,0 +1,195 @@
+
+V	java:S106´"9Replace this use of System.out or System.err by a logger.(Á´å8â¿Äˆò.
+>
+java:S1659V""Declare "docu" on a separate line.(ñÁb8â¿Äˆò.
+K
+java:S1121¡".Extract the assignment out of this expression.(²‡À8â¿Äˆò.
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(ïÉŸìøÿÿÿÿ8â¿Äˆò.
+[
+java:S1854e"9Remove this useless assignment to local variable "telef".(”Áåÿÿÿÿÿ8â¿Äˆò.
+Z
+java:S1854k"8Remove this useless assignment to local variable "docu".(·°©áùÿÿÿÿ8â¿Äˆò.
+V	java:S106­"9Replace this use of System.out or System.err by a logger.(€èôÇ8â¿Äˆò.
+>
+java:S1659."!Declare "dir" on a separate line.(İ³Èƒ8Ğ±‚äñ.
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(€èôÇ8â¿Äˆò.
+>
+java:S2129"!Remove this "Integer" constructor(«ÙÂ8Àº¸ñ.
+P
+java:S11212".Extract the assignment out of this expression.(É×ƒ‡şÿÿÿÿ8®¼ıãñ.
+A
+java:S1659V"%Declare "tipodoc" on a separate line.(ñÁb8â¿Äˆò.
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(¾ÒŠÖÿÿÿÿÿ8â¿Äˆò.
+W
+java:S1141~"5Extract this nested try block into a separate method.(·Á€’ùÿÿÿÿ8â¿Äˆò.
+K
+java:S1121c".Extract the assignment out of this expression.(‰­°Ó8â¿Äˆò.
+K
+java:S1121A".Extract the assignment out of this expression.(ïÉ®©8â¿Äˆò.
+A
+java:S1659."$Declare "condic" on a separate line.(İ³Èƒ8Ô°Äˆò.
+\
+java:S1854;":Remove this useless assignment to local variable "nompro".(Œç¥‰ÿÿÿÿÿ8â¿Äˆò.
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(ˆÇ¾²8â¿Äˆò.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(£Ê¸Õ8â¿Äˆò.
+]	java:S125"<This block of commented-out lines of code should be removed.(öƒƒùûÿÿÿÿ8Àº¸ñ.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(»å¤›şÿÿÿÿ8â¿Äˆò.
+V	java:S106˜"9Replace this use of System.out or System.err by a logger.(Üë«8â¿Äˆò.
+D
+java:S1659."'Declare "documento" on a separate line.(İ³Èƒ8Ğ±‚äñ.
+I
+java:S1659¹"+Declare "representante" on a separate line.(í×¯„8â¿Äˆò.
+B
+java:S1659V"&Declare "confirma" on a separate line.(ñÁb8â¿Äˆò.
+h
+java:S1301*"KReplace this "switch" statement by "if" statements to increase readability.(ÀÁ„è8 Åÿ½ñ.
+[	java:S106º"9Replace this use of System.out or System.err by a logger.(ÍØØòüÿÿÿÿ8â¿Äˆò.
+K
+java:S11218".Extract the assignment out of this expression.(ÿŸÇ8®¼ıãñ.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ÍØØòüÿÿÿÿ8®¼ıãñ.
+P
+java:S1121?".Extract the assignment out of this expression.(›¤†¤üÿÿÿÿ8â¿Äˆò.
+V	java:S106 "9Replace this use of System.out or System.err by a logger.(Œ™Ø¶8â¿Äˆò.
+V	java:S106Æ"9Replace this use of System.out or System.err by a logger.(€èôÇ8â¿Äˆò.
+\
+java:S1854?":Remove this useless assignment to local variable "idprod".(›¤†¤üÿÿÿÿ8°Çˆò.
+Z
+java:S18548"=Remove this useless assignment to local variable "documento".(ÿŸÇ8®¼ıãñ.
+U
+java:S4973^"9Use the "equals" method if value comparison was intended.(ËÈv8â¿Äˆò.
+i
+java:S1301š"KReplace this "switch" statement by "if" statements to increase readability.(ÀÁ„è8â¿Äˆò.
+Q
+java:S1121¥".Extract the assignment out of this expression.(©¬å€øÿÿÿÿ8â¿Äˆò.
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(¡’×Ë8â¿Äˆò.
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(¬§ıªúÿÿÿÿ8®¼ıãñ.
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(€èôÇ8â¿Äˆò.
+D
+java:S1659„"!Declare "doc" on a separate line.(É€¯ıÿÿÿÿ8â¿Äˆò.
+?	java:S131š""Add a default case to this switch.(ÀÁ„è8â¿Äˆò.
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(ÍØØòüÿÿÿÿ8â¿Äˆò.
+h
+java:S1301T"KReplace this "switch" statement by "if" statements to increase readability.(ÀÁ„è8â¿Äˆò.
+@
+java:S1659."#Declare "telef" on a separate line.(İ³Èƒ8Ğ±‚äñ.
+O
+java:S1659",Declare "caracteristica" on a separate line.(¾¶èÑÿÿÿÿÿ8â¿Äˆò.
+L
+java:S1659")Declare "condiciones" on a separate line.(¾¶èÑÿÿÿÿÿ8â¿Äˆò.
+W
+java:S1854c":Remove this useless assignment to local variable "nombre".(‰­°Ó8â¿Äˆò.
+X
+java:S1141—"5Extract this nested try block into a separate method.(·Á€’ùÿÿÿÿ8â¿Äˆò.
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(¬’÷¤ÿÿÿÿÿ8â¿Äˆò.
+V	java:S106¤"9Replace this use of System.out or System.err by a logger.(£Ê¸Õ8â¿Äˆò.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ş¨ş²ÿÿÿÿÿ8â¿Äˆò.
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(¢ğ¬ê8â¿Äˆò.
+T	java:S106j"9Replace this use of System.out or System.err by a logger.(¦—ì8â¿Äˆò.
+Y
+java:S18544"7Remove this useless assignment to local variable "dir".(†çíúÿÿÿÿ8®¼ıãñ.
+M
+java:S1128"0Remove this unused import 'com.clases.Empresas'.(ŒŸÀ”8æ›»åñ.
+?
+java:S1659V"#Declare "telef" on a separate line.(ñÁb8â¿Äˆò.
+X
+java:S1854i";Remove this useless assignment to local variable "tipodoc".(Êı€8â¿Äˆò.
+R
+java:S1133"5Do not forget to remove this deprecated code someday.(«ÙÂ8Àº¸ñ.
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(¬§ıªúÿÿÿÿ8â¿Äˆò.
+V	java:S106Ô"9Replace this use of System.out or System.err by a logger.(€èôÇ8â¿Äˆò.
+D
+java:S1659¹"&Declare "tipodoc1" on a separate line.(í×¯„8â¿Äˆò.
+P
+java:S11214".Extract the assignment out of this expression.(†çíúÿÿÿÿ8®¼ıãñ.
+b
+java:S1854¥"?Remove this useless assignment to local variable "condiciones".(©¬å€øÿÿÿÿ8â¿Äˆò.
+_
+java:S1854¡"BRemove this useless assignment to local variable "caracteristica".(²‡À8â¿Äˆò.
+W
+java:S1141'"5Extract this nested try block into a separate method.(·Á€’ùÿÿÿÿ8 Åÿ½ñ.
+A
+java:S1659."$Declare "idprod" on a separate line.(İ³Èƒ8Ô°Äˆò.
+a
+java:S1854£">Remove this useless assignment to local variable "idproducto".(ú†¯Øûÿÿÿÿ8â¿Äˆò.
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(ÍØØòüÿÿÿÿ8â¿Äˆò.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(Ê–ïµøÿÿÿÿ8®¼ıãñ.
+?	java:S131¶""Add a default case to this switch.(ÀÁ„è8â¿Äˆò.
+W
+java:S1854A":Remove this useless assignment to local variable "condic".(ïÉ®©8°Çˆò.
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(Œ™Ø¶8â¿Äˆò.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Ñæ»üøÿÿÿÿ8 Åÿ½ñ.
+L
+java:S1121Ÿ".Extract the assignment out of this expression.(­Ú—µ8â¿Äˆò.
+K
+java:S11216".Extract the assignment out of this expression.(ŞŒŸù8®¼ıãñ.
+B
+java:S1659."%Declare "tipodoc" on a separate line.(İ³Èƒ8Ğ±‚äñ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 72 to the 15 allowed.(Çµí‘8‘³Ò»ñ.
+W
+java:S1854":Remove this useless assignment to local variable "opMenu".(«ÙÂ8ÌŞü»ñ.
+=
+java:S1659V"!Declare "var" on a separate line.(ñÁb8â¿Äˆò.
+?	java:S131""Add a default case to this switch.(ÀÁ„è8â¿Äˆò.
+Q
+java:S1121£".Extract the assignment out of this expression.(ú†¯Øûÿÿÿÿ8â¿Äˆò.
+V	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(¶ƒõµ8â¿Äˆò.
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êîÀ8—Û†Ùñ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Í‡±Ú8â¿Äˆò.
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(Ê–ïµøÿÿÿÿ8â¿Äˆò.
+P
+java:S1121;".Extract the assignment out of this expression.(Œç¥‰ÿÿÿÿÿ8â¿Äˆò.
+K
+java:S1121=".Extract the assignment out of this expression.(ö³¡˜8â¿Äˆò.
+X
+java:S18546";Remove this useless assignment to local variable "tipodoc".(ŞŒŸù8®¼ıãñ.
+T
+java:S1854g"7Remove this useless assignment to local variable "dir".(£§™’8â¿Äˆò.
+U	java:S106‡"9Replace this use of System.out or System.err by a logger.(¦—ì8â¿Äˆò.
+K
+java:S1659"(Declare "idproducto" on a separate line.(¾¶èÑÿÿÿÿÿ8â¿Äˆò.
+=
+java:S1659V"!Declare "dir" on a separate line.(ñÁb8â¿Äˆò.
+[	java:S106Ì"9Replace this use of System.out or System.err by a logger.(¶ª÷ùÿÿÿÿ8â¿Äˆò.
+W
+java:S18540":Remove this useless assignment to local variable "nombre".(Ö  ¯8ÿ¼ÿãñ.
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(ş¨ş²ÿÿÿÿÿ8â¿Äˆò.
+[
+java:S18542"9Remove this useless assignment to local variable "telef".(É×ƒ‡şÿÿÿÿ8®¼ıãñ.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¾ÒŠÖÿÿÿÿÿ8â¿Äˆò.
+W
+java:S1854=":Remove this useless assignment to local variable "caract".(ö³¡˜8°Çˆò.
+>	java:S131*""Add a default case to this switch.(ÀÁ„è8 Åÿ½ñ.
+>	java:S131T""Add a default case to this switch.(ÀÁ„è8â¿Äˆò.
+P
+java:S1121e".Extract the assignment out of this expression.(”Áåÿÿÿÿÿ8â¿Äˆò.
+X
+java:S1854Ÿ":Remove this useless assignment to local variable "nombre".(­Ú—µ8â¿Äˆò.
+K
+java:S1121i".Extract the assignment out of this expression.(Êı€8â¿Äˆò.
+U	java:S106¼"9Replace this use of System.out or System.err by a logger.(¦—ì8â¿Äˆò.
+T	java:S1067"9Replace this use of System.out or System.err by a logger.(¦—ì8®¼ıãñ.
+L
+java:S1874"/Remove this use of "Integer"; it is deprecated.(«ÙÂ8Àº¸ñ.
+W
+java:S1141Q"5Extract this nested try block into a separate method.(·Á€’ùÿÿÿÿ8â¿Äˆò.
+i
+java:S1301¶"KReplace this "switch" statement by "if" statements to increase readability.(ÀÁ„è8â¿Äˆò.
+A
+java:S1659."$Declare "nompro" on a separate line.(İ³Èƒ8Ô°Äˆò.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(¡’×Ë8®¼ıãñ.
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(€èôÇ8â¿Äˆò.
+K
+java:S11210".Extract the assignment out of this expression.(Ö  ¯8®¼ıãñ.
+K
+java:S1121g".Extract the assignment out of this expression.(£§™’8â¿Äˆò.
+P
+java:S1121k".Extract the assignment out of this expression.(·°©áùÿÿÿÿ8â¿Äˆò.
+n	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ë¸÷8â¿Äˆò.
+A
+java:S1659."$Declare "caract" on a separate line.(İ³Èƒ8Ô°Äˆò.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(·Ï–8 Åÿ½ñ.
+X
+java:S1141³"5Extract this nested try block into a separate method.(·Á€’ùÿÿÿÿ8â¿Äˆò.
+i
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ÀÁ„è8â¿Äˆò.
